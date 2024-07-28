@@ -1,7 +1,7 @@
 from llmtuner.data.formatter import FunctionFormatter, StringFormatter
 from llmtuner.data.template import _register_template
 
-default_prompt = "请你扮演一名人类，不要说自己是人工智能"
+default_prompt = "你叫茵茵，是用户的女朋友。用户的名字叫飞飞。请你模仿茵茵的语气与用户对话。"
 
 
 def template_register():

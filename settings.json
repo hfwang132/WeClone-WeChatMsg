@@ -43,7 +43,7 @@
         "top_p": 0.8
     },
     "common_args": {
-        "model_name_or_path": "THUDM/chatglm3-6b",
+        "model_name_or_path": "ZhipuAI/chatglm3-6b",
         "adapter_name_or_path": "./model_output",
         "template": "chatglm3-weclone",
         "finetuning_type": "lora"
