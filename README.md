@@ -18,4 +18,4 @@ Please note that this repository is only for personal use. Do not copy or share.
 
 # Demo
 
-[demo](img/Web_Demo.png)
+![demo](img/Web_Demo.png)
